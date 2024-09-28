@@ -7,7 +7,6 @@ Simple Plugin for Unreal 5.4 created to correct the Pivot Offset problem in Unre
 Add to the Plugins folder of your Unreal project.
 I haven't tested on previous versions of Unreal, but it might just work!
 
-
 ## The Problem
 It is obvious when we have to flip sprites. Rotation / Scale are relative to the Pivot:
 
@@ -19,6 +18,9 @@ Use the Property Matrix to change the Pivot for all the sprites. However cannot 
 It means that we will have to set the pivot manually for each sprite.
 
 ## Our Solution:
+
+### Enable the Plugin (if not enabled automatically)
+![image](https://github.com/user-attachments/assets/d6a1d94d-9d8e-40bf-a8f7-6352689f3b8f)
 
 ### Select the Paper2D Sprites:
 ![image](https://github.com/user-attachments/assets/39645957-4468-4d91-a387-e185b56c9922)
