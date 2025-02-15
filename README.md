@@ -1,6 +1,8 @@
-# SpriteTools - Unreal Engine 5.4
+# SpriteTools - Unreal Engine 5.3 - 5.4 - 5.5
 
 Simple Plugin for Unreal 5.4 created to correct the Pivot Offset problem in Unreal Paper 2D sprites.
+
+Update: Added support for 5.3
 
 ## Setup & Usage
 
